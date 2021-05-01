@@ -1,14 +1,19 @@
-1. https://getwaves.io/
-2. https://caniuse.com/
-3. https://tailblocks.cc/
-4. https://www.photopea.com/
-5. https://javascript30.com/
-6. http://species-in-pieces.com/
-7. http://thatjsdude.com/
-8. https://www.freeformatter.com/
-9. https://www.freecodecamp.org/
-10. https://autoprefixer.github.io/
-11. https://blueberry.com.bd/
-12. https://bennettfeely.com/clippy/
-13. https://happyaddons.com/
-14. https://carbon.now.sh/
+1. https://caniuse.com/
+2. https://tailblocks.cc/
+3. https://www.photopea.com/
+4. https://javascript30.com/
+5. http://species-in-pieces.com/
+6. http://thatjsdude.com/
+7. https://www.freeformatter.com/
+8. https://www.freecodecamp.org/
+9. https://autoprefixer.github.io/
+10. https://blueberry.com.bd/
+11. https://bennettfeely.com/clippy/
+12. https://happyaddons.com/
+13. https://carbon.now.sh/
+
+
+
+14. https://www.blobmaker.app/
+15. https://app.haikei.app/
+16. https://getwaves.io/
